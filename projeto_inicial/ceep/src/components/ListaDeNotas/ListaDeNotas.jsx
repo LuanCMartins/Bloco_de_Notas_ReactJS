@@ -3,7 +3,6 @@ import CardNota from "../CardNota";
 import "./estilo.css";
 
 export class ListaDeNotas extends Component {
-    
 
     render() {
         return (
