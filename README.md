@@ -1,7 +1,7 @@
 # ReactJS_Alura_01_02
 ## Projeto desenvolvido no curso de introdução à biblioteca ReactJS através da plataforma Alura Cursos Online
 
-Estudos iniciais sobre a biblioteca ReactJS
+Estudos iniciais sobre a biblioteca [ReactJS](https://pt.wikipedia.org/wiki/React_(JavaScript) "ReactJS Wikipédia")
 
 * Importação de SVGs;
 
