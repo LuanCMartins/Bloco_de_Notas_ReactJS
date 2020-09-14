@@ -3,6 +3,8 @@
 
 Estudos iniciais sobre a biblioteca [ReactJS](https://pt.wikipedia.org/wiki/React_(JavaScript) "ReactJS Wikipédia")
 
+---
+
 * Importação de SVGs;
 
 * Componentes Stateful e Stateless;
