@@ -7,15 +7,15 @@ Estudos iniciais sobre a biblioteca ReactJS
 
 * Componentes Stateful e Stateless;
 
-Função dos componentes;
+* Função dos componentes;
 
-Binds;
+* Binds;
 
-Props e State;
+* Props e State;
 
-Fontes de dados;
+* Fontes de dados;
 
-Padrão observable;
+* Padrão observable;
 
-Ciclo de vida de componentes;
+* Ciclo de vida de componentes;
 
