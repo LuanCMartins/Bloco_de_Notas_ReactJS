@@ -3,7 +3,7 @@ Projeto desenvolvido no curso de introdução à biblioteca ReactJS através da 
 
 Estudos iniciais sobre a biblioteca ReactJS
 
-Importação de SVGs;
+Importação de SVGs.
 Componentes Stateful e Stateless;
 Função dos componentes;
 Binds;
